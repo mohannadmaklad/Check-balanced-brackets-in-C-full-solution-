@@ -2,7 +2,7 @@
 
 This is my final solution of the problem in c++
 
-priority:
+priority:  
 1- unmatched closing bracket:  
 -Doesn't have an opening like ] in ]()   
 -Closing the wrong opening bracket like } in "()[}"  
